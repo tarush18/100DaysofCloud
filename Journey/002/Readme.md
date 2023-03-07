@@ -59,7 +59,7 @@ def lambda_handler(event, context):
 }
 ```
 - Click create
-- Deploy and click Test to see the results.
+- Click on Deploy Button  and then click Test to see the results.
 
 ![Screenshot](https://github.com/aaditunni/100DaysOfCloud/blob/main/Journey/002/day2.2.JPG)
 
