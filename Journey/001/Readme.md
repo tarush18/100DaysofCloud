@@ -7,6 +7,5 @@
 - Today, all I did was copy the 100DaysOfCLoud journey template and setup my own GitHub repo, make few changes and I'm ready to start strong tomorrow!
 
 ## Social Proof
-[Blog](https://dev.to/aaditunni/100daysofcloud-286o)
 
-[Linkedin](https://www.linkedin.com/posts/aaditunni_100daysofcloud-aws-cloud-activity-7015277561765113856-gJ1l?utm_source=share&utm_medium=member_desktop)
+[Linkedin](https://www.linkedin.com/in/tarush-aggarwal-985032195/)
